@@ -4,8 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.myapplication",
-     
-      ]
+      "sha256_cert_fingerprints": ["F2:54:FB:D0:2C:BA:D7:D4:EF:9D:9C:15:CB:85:8B:01:7E:6D:4B:C5:5D:20:77:61:99:E6:02:B5:A2:E6:BB:1B"]
     }
   }
 ]
